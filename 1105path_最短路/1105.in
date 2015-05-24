@@ -1,0 +1,9 @@
+2
+3 3 1 3
+Name: Short but crowd road, From: 1, To: 2, Length: 1621, People number: 189, Light: 23;
+Name: Normal road, From: 2, To: 3, Length: 1984, People number: 168, Light: 4;
+Name: Long but not crowd road, From: 1, To: 3, Length: 1729, People number: 400, Light: 31;
+3 3 1 3
+Name: Short but crowd road, From: 1, To: 2, Length: 1, People number: 10, Light: 1;
+Name: Normal road, From: 2, To: 3, Length: 1, People number: 1, Light: 1;
+Name: Long but not crowd road, From: 1, To: 3, Length: 10, People number: 1, Light: 1;
