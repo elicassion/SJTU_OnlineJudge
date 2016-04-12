@@ -1,0 +1,10 @@
+Var  a:char;
+
+
+
+begin
+    writeln(¡®Do you fell happy ?¡¯);
+    readln(a);
+    if a=¡¯y¡¯ then  writeln(¡®smile¡¯);
+        else  writeln(¡®sad¡¯);
+end
